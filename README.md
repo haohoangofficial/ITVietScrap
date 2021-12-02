@@ -1,5 +1,5 @@
 # ITVietScrap
-Scrape and save data from ITViet.com to Google Sheets with Apps Script
+Scraping and save data from ITViet.com to Google Sheets with Apps Script
 ## Required
 ### Include both libraries
 1. Cheerio [https://github.com/tani/cheeriogs]
